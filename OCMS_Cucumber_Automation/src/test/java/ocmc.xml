@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<test name="Today">
+		<classes>
+			<!--<class name="web.runners.testRunner" />-->
+			 <!---<class name="web.runners.Signup" />-->
+			 <!--<class name="web.runners.Homelogin" />-->
+			  <!--<class name="web.runners.login" />-->
+			 <!--<class name="web.runners.Softloggedin" />-->
+			  <!--<class name="web.runners.SoftLoginForHardLoggedInUser" />-->
+			 <!--<class name="web.runners.SoftToHardLogin" />-->
+			 <class name="web.runners.ProfileVerify" />
+			 
+			 <!--<class name="web.runners.SoftLoginNotAccess" />-->
+			 
+		</classes>
+	</test>
+
+</suite> 	
