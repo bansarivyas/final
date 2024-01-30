@@ -11,8 +11,8 @@
 			 <!--<class name="web.runners.Softloggedin" />-->
 			  <!--<class name="web.runners.SoftLoginForHardLoggedInUser" />-->
 			 <!--<class name="web.runners.SoftToHardLogin" />-->
-			 <class name="web.runners.ProfileVerify" />
 			 
+			 <class name="web.runners.ProfileVerify" />
 			 <!--<class name="web.runners.SoftLoginNotAccess" />-->
 			 
 		</classes>

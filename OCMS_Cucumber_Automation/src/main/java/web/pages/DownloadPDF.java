@@ -92,7 +92,7 @@ public class DownloadPDF {
 	}
 
 	public void clickOnSearchedActivity() {
-		WebDriverWait wait = new WebDriverWait(driver, 300);
+		WebDriverWait wait = new WebDriverWait(driver,300);
 		wait.until(ExpectedConditions.elementToBeClickable(activityListingLearnMore));
 
 		JavascriptExecutor js = (JavascriptExecutor) driver;
